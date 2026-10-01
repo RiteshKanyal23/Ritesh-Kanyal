@@ -7,3 +7,5 @@ for i in range(1, 5):
         print(10 * 5)
     elif i == 4:
         print(10 / 5)
+        print("Hello")
+        print("Good Morning...")
