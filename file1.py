@@ -1,11 +1,4 @@
-for i in range(1, 5):
-    if i == 1:
-        print(10 + 5)
-    elif i == 2:
-        print(10 - 5)
-    elif i == 3:
-        print(10 * 5)
-    elif i == 4:
-        print(10 / 5)
-        print("Hello")
-        print("Good Morning...")
+print("Addation",7+4)
+print("subtraction",6-3)
+print("multiplication",5*6)
+print("Division", 8 / 4)
